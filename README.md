@@ -46,7 +46,7 @@
           想了解一个成熟的，面向市场的软件背后所有的一切。
         2.学习本课程，我希望自己能独立的完成小型软件的开发，获得相应的技能，至少了解这种开发工作是如何进行的。
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...<br>
 ![学习中](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9pbWcuYml0b29sLmNuL25ld3NpbWFnZS81OWIzODNkNmM4YjA1YTNhNDE4MjYxMjEzZTdiYWExNS5qcGc?x-oss-process=image/format,png)
 
 
